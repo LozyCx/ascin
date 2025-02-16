@@ -5,5 +5,5 @@ c言語のソースコードをnimで書き直してみました。画像をASCI
 ```
 nim c -r main.nim <image_path>
 ```
-![iamge](/ascin/apple.png)
+![iamge](apple.png)
 
